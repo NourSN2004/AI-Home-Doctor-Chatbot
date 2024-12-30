@@ -128,3 +128,4 @@ Riwa El Kari
 - [LangChain](https://www.langchain.com/) for the conversational AI framework.
 - [Kaggle](https://www.kaggle.com/) for providing the datasets.
 - [OpenAI](https://openai.com/) for the GPT-4 architecture powering the chatbot.
+- There is also an mp4 video file of a demo we did for reference.
